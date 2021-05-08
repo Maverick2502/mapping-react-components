@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import emojipedia from "../emojipedia";
+import "./styles.css";
 
 function Entry(emojiEl) {
   return (
@@ -12,7 +13,6 @@ function Entry(emojiEl) {
     />
   );
 }
-
 function App() {
   return (
     <div>

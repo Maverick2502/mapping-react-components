@@ -36,12 +36,7 @@ h1 span {
   border-radius: 3px;
   box-shadow: 10px 9px 0 rgba(0, 0, 0, 0.05), 10px 9px 20px rgba(0, 0, 0, 0.3);
   background-color: #fff;
-  transition: all 100ms ease-in-out;
   transform: rotate(-12deg);
-}
-
-.dictionary > .term > dt {
-  margin-bottom: 1rem;
 }
 
 dt {
